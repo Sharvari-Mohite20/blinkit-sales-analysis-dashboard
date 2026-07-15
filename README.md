@@ -17,11 +17,11 @@ and customer ratings. The dashboard enables users to explore key business metric
 
 # Tools & Technologies
 
-1. Power BI
-2. Power Query
-3. DAX
-4. Microsoft Excel / CSV
-5. Data Modeling
+- Power BI
+- Power Query
+- DAX
+- Microsoft Excel / CSV
+- Data Modeling
 
 # Dashboard Features
 
