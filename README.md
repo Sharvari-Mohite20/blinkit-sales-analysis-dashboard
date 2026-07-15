@@ -62,7 +62,7 @@ and customer ratings. The dashboard enables users to explore key business metric
 
 # Dashboard Preview
 
-
+![Blinkit Sales Dashboard](dashboard-overview.png)
 
 # Skills Demonstrated
 
