@@ -1,10 +1,11 @@
 # Blinkit Sales Analysis Dashboard
 
-An interactive Power BI dashboard built to analyze Blinkit's sales performance, outlet operations, product distribution, and customer ratings through dynamic visualizations and business intelligence techniques.
-Project Overview
+This is my first Power BI project, created to explore sales data and build an interactive business intelligence dashboard. The dashboard analyzes Blinkit's sales performance, outlet operations, product distribution, and customer ratings using dynamic visualizations, DAX, and Power BI features.
 
-This project showcases an interactive "Blinkit Sales Analysis Dashboard" developed in - "Power BI" to analyze sales performance, outlet operations, product distribution, 
-and customer ratings. The dashboard enables users to explore key business metrics through dynamic visuals and interactive filters, helping uncover valuable insights for decision-making.
+# Project Overview
+
+The goal of this project was to transform raw sales data into meaningful insights through an interactive dashboard. It allows users to monitor key business metrics, compare outlet performance, analyze product categories, and explore sales trends using filters and visualizations. This project helped me strengthen my skills in data modeling, DAX, dashboard design, 
+and data visualization in Power BI.
 
 # Objectives :
 
